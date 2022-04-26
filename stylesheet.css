@@ -8,7 +8,7 @@ body
 #h1
 {
   text-align: center;
-  font-family: "Square Peg"
+  font-family: "Brush Script MT"
 }
 
 #h2
@@ -17,9 +17,16 @@ body
 
 #introduction
 {
-  color: pink;
+  color: 255, 207, 223;
 }
 
 #post1
 {
+  color: 110, 255, 175
+}
+  
+body
+ {
+  text align = center
+ }
   
