@@ -1,7 +1,7 @@
 body
 {
-  background-color: 250, 212, 175;
-  color: 43, 43, 43;
+  background-color: rgb(250, 212, 175);
+  color: rgb(43, 43, 43);
   font-size: 12px;
 }
 
@@ -20,12 +20,12 @@ body
 
 #introduction
 {
-  color: 255, 207, 223;
+  color: rgb(255, 207, 223);
 }
 
 #post1
 {
-  color: 110, 255, 175;
+  color: rgb(110, 255, 175);
 }
   
 body
